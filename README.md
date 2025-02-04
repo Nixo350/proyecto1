@@ -3,4 +3,4 @@
 * item 1
 * item 2
 ## Esto es un enlacce
-google|(http://www.google.es)
+[google](http://www.google.es)
